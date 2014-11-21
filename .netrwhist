@@ -1,8 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/Users/mark/.tmuxinator'
-let g:netrw_dirhist_2='/Users/mark/.vim'
-let g:netrw_dirhist_3='/Users/mark/Desktop/qwall'
-let g:netrw_dirhist_4='/Users/mark/Desktop'
-let g:netrw_dirhist_5='/Users/mark/Desktop/sample'
-let g:netrw_dirhist_6='/Users/mark/Downloads/polymer-tutorial-master/starter'
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/mark/Desktop/elixir/helloworld_elixir'
+let g:netrw_dirhist_2='/Users/mark/Desktop/metaprogramming_ruby_examples'
+let g:netrw_dirhist_3='/Users/mark/Desktop/rails/160sms'
+let g:netrw_dirhist_4='/Users/mark/Desktop/rails/directsms_ruby'
+let g:netrw_dirhist_5='/Users/mark/Desktop/demo_sake'
